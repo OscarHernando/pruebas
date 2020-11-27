@@ -1,0 +1,9 @@
+Archivo TXT
+-----------
+
+Archivo de ejemplo creado para ser descargado
+mediante una conexion HTTP
+
+Programacion Multimedia y Dispositivos Moviles
+Desarrollo de Aplicaciones Multiplataforma
+IES San Andres
