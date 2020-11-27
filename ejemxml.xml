@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ies>
+  <nombreCentro>IES San Andres</nombreCentro>
+  <web>https://www.iessanandres.com/</web>
+  <ciclos>
+    <ciclo id="ASIR">
+      <nombre>Administración de Sistemas Informáticos en Red</nombre>
+      <nivel>Grado Superior</nivel>
+      <decretoTitulo>2009</decretoTitulo>
+    </ciclo>
+    <ciclo id="DAM">
+      <nombre>Desarrollo de Aplicaciones Multiplataforma</nombre>
+      <nivel>Grado Superior</nivel>
+      <decretoTitulo>2010</decretoTitulo>
+    </ciclo>
+    <ciclo id="DAW">
+      <nombre>Desarrollo de Aplicaciones Web</nombre>
+      <nivel>Grado Superior</nivel>
+      <decretoTitulo>2010</decretoTitulo>
+    </ciclo>
+    <ciclo id="SMR">
+      <nombre>Sistemas Microinformáticos y Redes</nombre>
+      <nivel>Grado Medio</nivel>
+      <decretoTitulo>2008</decretoTitulo>
+    </ciclo>
+  </ciclos>
+</ies>
